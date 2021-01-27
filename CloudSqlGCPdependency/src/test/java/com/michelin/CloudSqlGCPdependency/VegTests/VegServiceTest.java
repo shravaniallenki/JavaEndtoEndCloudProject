@@ -22,8 +22,7 @@ import com.michelin.CloudSqlGCPdependency.RestController.VegRest;
 import com.michelin.CloudSqlGCPdependency.Service.VegService;
 import com.michelin.CloudSqlGCPdependency.VegRepository.VegRepository;
 
-//@RunWith(MockitoJUnitRunner.class)
-//@SpringBootTest
+//JUNIT Testing
 @RunWith(SpringRunner.class)
 @SpringBootTest
 public class VegServiceTest {
